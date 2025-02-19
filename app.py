@@ -109,7 +109,7 @@ st.markdown(
 )
 
 # App Title and Introduction
-st.title(""" 
+st.header(""" 
 
 🌱 Growth Mindset Challenge 
 
